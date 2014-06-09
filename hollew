@@ -1,0 +1,3 @@
+$ makdir hollew
+$ cd hollew
+$ git init
